@@ -86,5 +86,5 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-# Babel converted scripts directory
-dist/
+# Webpack converted scripts directory
+dist
