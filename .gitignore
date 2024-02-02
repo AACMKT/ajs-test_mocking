@@ -86,4 +86,4 @@ typings/
 .dynamodb/
 
 # Babel converted scripts
-.dist
+dist/
